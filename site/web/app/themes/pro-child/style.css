@@ -10,3 +10,7 @@ Template: pro
 
 */
 
+.archive .x-header-landmark .h-landmark {
+    display: none;
+}
+
